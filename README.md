@@ -11,6 +11,6 @@ dmenu 4.9
 
 ```bash
 git clone https://github.com/valen-gh/dmenu.git
-cd dwm
+cd dmenu
 sudo make install
 ```
